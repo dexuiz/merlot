@@ -1,0 +1,10 @@
+*.tfrecord
+*.tar.gz
+*.mp4
+*.checkpoint
+*.ckpt.data-00000-of-00001
+*.json
+*.meta
+*.h5
+*.pth
+
